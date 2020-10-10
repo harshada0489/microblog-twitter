@@ -23,7 +23,7 @@ MICROBLOG has two services namely:
   getUserTimeline(username) - Returns recent tweets from a user.
   getPublicTimeline() - Returns recent tweets from all users.
   getHomeTimeline(username) -Returns recent tweets from all users that this user follows.
-  postTweet(username, text) - Post a new tweet.
+  postTweet(username, text) - Post a new tweet....
 
 
 
